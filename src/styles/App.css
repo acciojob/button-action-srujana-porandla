@@ -1,1 +1,22 @@
 /* Your CSS code here. */
+#main {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  #click {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .hide {
+    display: none;
+  }
+  
+  .show {
+    display: block;
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
